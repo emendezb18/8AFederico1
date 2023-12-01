@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  .main{
+    width: 100%;
+    background: rgb(0, 0, 0);
+  background-position: center;
+  background-size: cover;
+  height: 700vh;
+  }
+  .navbar{
+    width: 1000px;
+    height: 75px;
+    margin: auto;
+  }
+  .icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+  }
+  .logo{
+  color: aqua;
+  font-size: 35px;
+  font-family: arial;
+  padding-left: 20px;
+  float: left;
+  padding-top: 10px;
+  }
+  .menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+  }
+  ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+  }
+  ul li a{
+    text-decoration: none;
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transition: 0.5 ease-in-out;
+
+  }
+  ul li a:hover{
+    color: aqua;
+  }
+  .search{
+    width: 330px;
+    float: right;
+    margin-right: 270px;
+  }
+  .logo2{
+    color: rgb(255, 51, 0);
+    font-size: 35px;
+    font-family: arial;
+    padding-left: 20px;
+    float: left;
+    }
+    .do1{
+color: aliceblue;
+float: left;
+font-size: 20px;
+padding: 20px;
+font-family: Arial, Helvetica, sans-serif;
+    }
+    .do2{
+        color: aliceblue;
+        float: left;
+        font-size: 20px;
+        padding: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+            }
+            .do3{
+                color: aliceblue;
+                float: left;
+                font-size: 20px;
+                padding: 20px;
+                font-family: Arial, Helvetica, sans-serif
+                    }
+                    .img1-2{
+                        width: 700px;
+                        height: 400px;
+                    }
+.pop{
+    color: aliceblue;
+}
+    .general{
+      float: right;
+    }
+    .img1-2{
+      float: right;
+    }
+    .h1d{
+      color: rgb(31, 105, 170);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 25px;
+      margin-left: 5%;
+    }
+    li{
+      font-size: 25px;
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 5%;
+    }
+    p{
+      font-size: 30px;
+      color: aliceblue;
+      padding: 100px;
+      font-family: Arial, Helvetica, sans-serif;
+      margin-left: 5%;
+    }
